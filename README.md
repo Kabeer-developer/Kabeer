@@ -1,5 +1,7 @@
-# 💫 About Me:
-Front-end technologies and Web Development
+# 💫 About Me:  👋 Hey there, I'm Kabeer A
+💻 B.Tech CSE Student | Front-End Developer
+🚀 Passionate about building interactive, responsive, and user-friendly web applications.
+
 
 
 ## 🌐 Socials:
